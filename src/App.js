@@ -10,6 +10,8 @@ import todolist from "./img/todolist.png";
 import colorpick from "./img/colorpick.png";
 import spexx1 from "./img/spexx1.png";
 import spexx2 from "./img/spexx2.png";
+import robotImg from "./img/robotstudio.png";
+import cerLetter from "./img/Letter-img.jpg";
 
 function App() {
   var [setDirection, fixSetdirection] = useState(1);
@@ -152,7 +154,7 @@ function Robot() {
       </div>
       <div className="wrap-projContent">
         <div className="project-img">
-          <img src="/img/robotstudio.png" alt="kentaLogin" />
+          <img src={robotImg} alt="kentaLogin" />
         </div>
       </div>
     </div>
@@ -341,7 +343,7 @@ function Letter() {
       </div>
       <div className="wrap-projContent">
         <div className="letter-img">
-          <img src="/Letter-img.jpg" alt="Recomendation Letter" />
+          <img src={cerLetter} alt="Recomendation Letter" />
         </div>
       </div>
     </div>
