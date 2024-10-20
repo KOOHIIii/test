@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.f855e6bc.css",
-    "main.js": "/test/static/js/main.31238d4a.js",
-    "static/js/453.a8a03b1c.chunk.js": "/test/static/js/453.a8a03b1c.chunk.js",
-    "static/media/logo.svg": "/test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/test/static/css/main.4c0ce643.css",
+    "main.js": "/test/static/js/main.232afa40.js",
+    "static/media/home-bg-3.jpg": "/test/static/media/home-bg-3.5d46560bff1f0471e805.jpg",
+    "static/media/kenta-regis.png": "/test/static/media/kenta-regis.4e68e1ea0354ac7363b8.png",
+    "static/media/kenta-login.png": "/test/static/media/kenta-login.361649d9f65f23431e63.png",
+    "static/media/kenta-data.png": "/test/static/media/kenta-data.be034971f1346e08f485.png",
+    "static/media/ninjamail.png": "/test/static/media/ninjamail.eef6ef9ee6fb122c8885.png",
+    "static/media/kenta-dashBord.png": "/test/static/media/kenta-dashBord.d34c145349d04d08632e.png",
+    "static/media/spexx2.png": "/test/static/media/spexx2.388872b86659b95d4a25.png",
+    "static/media/spexx1.png": "/test/static/media/spexx1.26c52402148fc9db4131.png",
+    "static/media/todolist.png": "/test/static/media/todolist.5902d505efb802e7058d.png",
+    "static/media/colorpick.png": "/test/static/media/colorpick.91fc272f39327f4d3268.png",
+    "static/media/logo.svg": "/test/static/media/logo.608fc0ad2aa2426089e07a01b24cb873.svg",
     "index.html": "/test/index.html",
-    "main.f855e6bc.css.map": "/test/static/css/main.f855e6bc.css.map",
-    "main.31238d4a.js.map": "/test/static/js/main.31238d4a.js.map",
-    "453.a8a03b1c.chunk.js.map": "/test/static/js/453.a8a03b1c.chunk.js.map"
+    "main.4c0ce643.css.map": "/test/static/css/main.4c0ce643.css.map",
+    "main.232afa40.js.map": "/test/static/js/main.232afa40.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.31238d4a.js"
+    "static/css/main.4c0ce643.css",
+    "static/js/main.232afa40.js"
   ]
 }
